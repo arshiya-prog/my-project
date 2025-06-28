@@ -1,16 +1,15 @@
-my-project
+My Project: Vendor Attendance Website
 
-Website for attendance of vendors (PROJECT FOR INTERNSHIP)
+During my internship at Tata Power, I observed an inefficiency in the manual tracking of vendors’ attendance by employees using an Excel sheet. To address this, I developed a web application to streamline the process.
 
-This is a project that I have made during my internship at Tata Power. 
-When I started my internship there, I noticed that the employees were keeping track of the vendors' attendance in an excel sheet. 
-I found this very unproductive, so I decided to make a website (which is yet to be hosted on their server).
-Until it is hosted, you can access it by using XAMPP (for windows), LAMP (for linux) and MAMP (for macOS, which I have used).
-Download the files uploaded and put them in a folder called "vendor_attendance", create a database on phpMyAdmin (the attendance.sql file contains the database and table info). 
-Make sure that the files are stored in applications/MAMP/htdocs. Type "http://localhost:8888/vendor_attendance/index.html" and... that's it!
+The website, currently in development and awaiting server hosting, is accessible through XAMPP (Windows), LAMP (Linux), and MAMP (MacOS).
 
-You can now mark the attendance of vendors with their name, date, in-time, out-time and status.
+Upon downloading the necessary files, create a folder named “vendor_attendance” and subsequently establish a database using phpMyAdmin. The attendance.sql file contains the database schema and table information. Ensure that the files are placed within the “Applications/MAMP/htdocs” directory.
 
-The website is not hosted on the internet yet. It runs locally.
+To access the website, navigate to “http://localhost:8888/vendor_attendance/index.html.”
+
+Upon accessing the website, users can record vendors’ attendance by providing their name, date, in-time, out-time, and status.
+
+Please note that the website is currently in a local development stage and not accessible on the internet.
 
 THANK YOU!!!
